@@ -5,4 +5,4 @@ Custom WebGL scene, implements rotation, translation, hierarchical modeling, lig
 <h2>Controls:</h2>
 Use arrowkeys for scene rotation and the z and x keys to move sun up and down (change brightness)
 
-<img src="scene.jpeg" width="500">
+<img src="Scene.jpeg" width="500">
